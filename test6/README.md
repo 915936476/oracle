@@ -308,9 +308,9 @@ customer_phone	|char(15)|
 
 ## （6）订单表
     订单表（order）
-属性名	数据类型	| 是否为空| 	主键/外键|	取值范围
+属性名	|数据类型|是否为空| 主键/外键|	取值范围
 :-: | :-: | :-: | :-: | :-:
-order_id	|char(10)	|否	|主键	
+order_id|char(10)	|否	|主键	
 order_time	|char(10)	|否		
 order_price	|char(5)	|否		
 order_info	|char(15)	|		
